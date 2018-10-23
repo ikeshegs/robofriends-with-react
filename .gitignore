@@ -10,7 +10,7 @@
 /build
 
 # Hello.js not needed
-.Hello.js
+/src/Hello.js
 
 # misc
 .DS_Store

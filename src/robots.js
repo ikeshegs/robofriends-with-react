@@ -65,4 +65,10 @@ export const robots = [
     username: 'micah',
     email: 'micah@gmail.com'
   },
+  {
+    id: 12,
+    name: 'Chidinma Francis',
+    username: 'chidi',
+    email: 'chidi@gmail.com'
+  }
 ];
